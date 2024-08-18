@@ -1,6 +1,6 @@
 # empowermentlabs-test-ios
 
-Prueba tecnica para empowerment labs
+Prueba tecnica
 
 En esta prueba implemente a nivel de arquitectura clean arquitecture con mvvvm(SwiftUi) y combine :
 
