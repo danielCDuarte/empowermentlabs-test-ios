@@ -322,13 +322,6 @@
 			path = Favorites;
 			sourceTree = "<group>";
 		};
-		1398414B298359710096C9E7 /* Realm */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Realm;
-			sourceTree = "<group>";
-		};
 		13C1B7902982F9E800EEEF25 /* Cells */ = {
 			isa = PBXGroup;
 			children = (
@@ -340,7 +333,6 @@
 		13C1B794298314D200EEEF25 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
-				1398414B298359710096C9E7 /* Realm */,
 				13C1B795298314DC00EEEF25 /* Network */,
 			);
 			path = Helpers;

@@ -7,7 +7,7 @@
 
 import Foundation
 
-protocol ErrorHandlerProtocol: class {
+protocol ErrorHandlerProtocol: AnyObject {
     func showError(error: Error)
 }
 
